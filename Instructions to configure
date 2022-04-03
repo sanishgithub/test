@@ -1,0 +1,4 @@
+Pre-requisites - Tools/Softwares needed(Eclipse,TestNG,Maven,Java)
+Download and unzip the project.
+Import the maven project in eclipse
+Right click on testng.xml and Run as 'TestNG Suite'
